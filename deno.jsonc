@@ -1,0 +1,8 @@
+{
+  "name": "@j-cis/mod-deno-file-structure-reader",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "fmt": {
+    "semiColons": false
+  }
+}
